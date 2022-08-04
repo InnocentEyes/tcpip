@@ -13,7 +13,7 @@ void error_handling(char *message);
 
 void send_msg(char *message);
 
-unsigned int handle(void *arg);
+unsigned WINAPI handle(void *arg);
 
 
 HANDLE mutex;

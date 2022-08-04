@@ -19,9 +19,9 @@ void error_handling(char *message);
  * @param arg
  * @return
  */
-unsigned int Read(void *arg);
+unsigned WINAPI Read(void *arg);
 
-unsigned int Write(void *arg);
+unsigned WINAPI Write(void *arg);
 
 
 char name[NAME_SIZE] = "[DEFAULT]";
