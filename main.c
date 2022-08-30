@@ -4,7 +4,7 @@
 
 /**
  * Learning comes to an end here, thank you for your hard work.
- * and thank for lky.
+ * and thank for everyone.
  */
 
 
